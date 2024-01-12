@@ -1,23 +1,29 @@
-{
-  "todos": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "done": true,
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "done": true,
-      "userId": 1
-    },
-     {
-      "id": 3,
-      "title": "Buy milk",
-      "done": true,
-      "userId": 1
-    }
-  ]
-  
-}
+[
+  {
+    "id": 1,
+    "title": "Complete Module 2 Project",
+    "description": "Finish all the tasks for the Module 2 project",
+    "dueDate": "2022-12-31",
+    "priority": "high",
+    "done": false,
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "title": "Prepare for Module 3 Exam",
+    "description": "Study all the necessary topics for the Module 3 exam",
+    "dueDate": "2022-11-15",
+    "priority": "medium",
+    "done": false,
+    "userId": 1
+  },
+  {
+    "id": 3,
+    "title": "Buy groceries",
+    "description": "Get milk, bread, eggs, and other essentials",
+    "dueDate": "2022-10-25",
+    "priority": "low",
+    "done": true,
+    "userId": 1
+  }
+]
